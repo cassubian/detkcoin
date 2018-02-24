@@ -4,7 +4,7 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Dëtk/source>
+        <source>About DetkCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Dëtk developers</source>
+        <source>The DetkCoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>

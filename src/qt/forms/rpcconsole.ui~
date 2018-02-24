@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Detk - Debug window</string>
+   <string>DetkCoin - Debug window</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>
@@ -36,7 +36,7 @@
           </font>
          </property>
          <property name="text">
-          <string>Dëtk Core</string>
+          <string>DetkCoin Core</string>
          </property>
         </widget>
        </item>
