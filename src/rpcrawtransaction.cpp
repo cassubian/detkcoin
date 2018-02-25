@@ -239,6 +239,9 @@ Value listunspent(const Array& params, bool fHelp)
             CTxDestination address;
             if (ExtractDestination(pk, address))
             {
+// THIS IS THE PLACE YOU SHOULD CHANGE IF LIBDB higher than 4.8
+// replace boost::get<const CScriptID&> 
+// with boost::get<CScriptID>
                 const CScriptID& hash = boost::get<const CScriptID&>(address);
                 CScript redeemScript;
                 if (pwalletMain->GetCScript(hash, redeemScript))
