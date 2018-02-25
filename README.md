@@ -10,9 +10,17 @@ www.detk.pl
 ----------------
 Win and Mac wallets available on our homepage.
 
+
+
 build:
 
-method 1: run build-helper.sh
+method 1: download the sources 
+
+git clone https://github.com/cassubian/detkcoin or .zip file
+
+run build-helper.sh double-clicking with mouse
+
+
 
 method 2: check your dependencies and
 
