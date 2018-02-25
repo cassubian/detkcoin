@@ -1,13 +1,14 @@
 Kaszëbsczi Dëtk - pierwszô regionalnô kriptowaluta w Pòlsce. Òd 2014.
-
+================================
 Kaszubski Detk - pierwsza kryptowaluta regionalna w Polsce. Od 2014.
-
+================================
 Cassubian Detk - the first regional cryptocurrency in Poland. Since 2014.
 ================================
 
 ----------------
 www.detk.pl
 ----------------
+Win and Mac wallets available on our homepage.
 
 build:
 
