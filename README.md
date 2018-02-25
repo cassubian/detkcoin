@@ -12,6 +12,10 @@ Win and Mac wallets available on our homepage.
 
 build:
 
+method 1: run build-helper.sh
+
+method 2: check your dependencies and
+
 git clone https://github.com/cassubian/detkcoin
 
 cd detkcoin
@@ -19,6 +23,9 @@ cd detkcoin
 qmake
 
 make
+
+
+
 
 If you are using libdb newer than 4.8 and getting libdb error of "invalid application of ‘sizeof’ to incomplete type ‘boost::STATIC_ASSERTION_FAILURE<false>’" it's a known issue.
 Please edit rpcrawtransaction.cpp and change:
